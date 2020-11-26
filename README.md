@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋🏻
+#### 📈 Data Science at: 🇸🇪 KTH & 🇮🇹 Politecnico di Milano
+#### 🔬 Researching on Non Stationary Reinforcement Learning
 <!--
 **adrianomundo/adrianomundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
