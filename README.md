@@ -1,7 +1,6 @@
 ### Hi there 👋🏻
 #### 📚 Data Science at 🇸🇪 KTH & 🇮🇹 Politecnico di Milano
-#### 🔬 Research on Reinforcement Learning
-#### 👨🏻‍💻 Work as Electronic Trading Engineer
+#### 👨🏻‍💻 Product Manager at Vontobel
 <!--
 **adrianomundo/adrianomundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
